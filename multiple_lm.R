@@ -1,0 +1,6 @@
+attach(Wage)
+fit=lm(wage~age);summary(fit)
+fit2=lm(wage~age+year);summary(fit2)
+data=subset(Wage,select=c(-logwage,-region,-sex));dim(data)
+fit3=lm(wage~.,data=data);summary(fit3)
+anova(fit2,fit3)
