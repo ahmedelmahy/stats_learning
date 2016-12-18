@@ -1,0 +1,11 @@
+--2016-12-18 14:28:07--  https://lagunita.stanford.edu/c4x/HumanitiesSciences/StatLearning/asset/ch2.R
+Resolving lagunita.stanford.edu (lagunita.stanford.edu)... 52.52.190.148, 52.9.85.227
+Connecting to lagunita.stanford.edu (lagunita.stanford.edu)|52.52.190.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 895 [application/octet-stream]
+Saving to: ‘ch2.R’
+
+     0K                                                       100% 60.2M=0s
+
+2016-12-18 14:28:13 (60.2 MB/s) - ‘ch2.R’ saved [895/895]
+
